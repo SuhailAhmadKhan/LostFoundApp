@@ -23,3 +23,4 @@ This is an android application that allows IIITA Students to post what they lost
 * **BaseActivity** : Contains some methods that alot of classes can use like ErrorSnackBar etc.
 
 ## Wireframe
+![Wireframe-1](https://user-images.githubusercontent.com/97402494/189099046-d52138c7-4d88-40b3-86da-519f5481c04a.jpg)
