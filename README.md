@@ -1,7 +1,7 @@
 
 ## Introduction
 
-This is an android application that allows IIITA Students to post what they lost or found, this app requires you to register an account first and then login using that account to access the rest of the app. The main screen acts as an introduction to app and conveys the applications purpose. The Lost/Found Section displays the Item description and message provided by the users in a recycler view for everyone to see. This application is still under development as the deadline was short. I plan to add features like displaying the image uploaded by the user in an image view besides the RecyclerView TextView's, useage of the register details entered by the user like First and Last Name, Custom Profiles and Send Notification Button.Initially my idea was to make a shopping e-commerce app but after the GeekHaven task I changed it into a Lost and Found Item App.
+This is an android application that allows IIITA Students to post what they lost or found, this app requires you to register an account first and then login using that account to access the rest of the app. The main screen acts as an introduction to app and conveys the applications purpose. The Lost/Found Section displays the Item description and message provided by the users in a recycler view for everyone to see. This application is still under development as the deadline was short. I plan to add features like displaying the image uploaded by the user in an image view besides the RecyclerView TextView's, useage of the register details entered by the user like First and Last Name, Custom Profiles and Send Notification Button.
 ## Technologies
 
 * Kotlin
