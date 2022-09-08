@@ -24,3 +24,8 @@ This is an android application that allows IIITA Students to post what they lost
 
 ## Wireframe
 ![Wireframe-1](https://user-images.githubusercontent.com/97402494/189099046-d52138c7-4d88-40b3-86da-519f5481c04a.jpg)
+
+## References
+* GeeksForGeeks Articles
+* Denis Panjuta's Firebase Udemy course.
+* Lastly but most importantly stackoverflow
